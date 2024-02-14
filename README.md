@@ -1,4 +1,4 @@
-<h3>Food Order App</h3>
+<h3>FastMeals.com</h3>
 
 <p>Practice food order app made using React Js and hooks like useState, use effect,useReducer,useRef, and Context API offers users a seamless and personalized dining experience. With a sleek and intuitive interface, it allows users to browse a variety of culinary options, customize their orders, and place them effortlessly. Leveraging React's hooks, the app dynamically updates the UI in response to user interactions and external data changes, ensuring a smooth and responsive experience. Through the Context API, the app maintains a global state and provides consistent data across components, enhancing efficiency and scalability. With features such as real-time order tracking, personalized recommendations, and secure payment options, the Food Order App revolutionizes the way users explore, order, and enjoy their favorite cuisines.</p>
 
